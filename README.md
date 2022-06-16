@@ -16,3 +16,6 @@
 5)Merge Sort
 
 This is built using HTML, CSS, JavaScript
+
+
+DEMO URL : https://sorting1algorithmvisualizer.netlify.app/
